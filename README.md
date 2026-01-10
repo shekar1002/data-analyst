@@ -1,4 +1,4 @@
 # data-analyst
 practice
 <br>
-author-shekar
+author-shekar kurva
